@@ -12,4 +12,7 @@ Key Achievements
 ### Summary Statistics
 ![Summary Statistics](image/Summary_statistics.PNG)
 
+### Distribution plots
+![histogram_plot](image/histogram_plot.PNG)
+
 
