@@ -108,5 +108,29 @@ To improve data quality and reliability, the following filters were applied:
 
 ![Distribution](images/Distribution.PNG)
 
+## 📊 Statistical Validation of Profit Margin Differences
+
+### Hypothesis Testing:
+- **Null Hypothesis (H₀):** No significant difference in profit margins between top and low-performing vendors.  
+- **Alternative Hypothesis (H₁):** A significant difference exists in profit margins between the two vendor groups.
+
+### Results:
+- The **null hypothesis is rejected**, confirming that the two groups operate under distinctly different profitability models.
+
+### Implications:
+- High-margin vendors may benefit from **better pricing strategies**.  
+- Top-selling vendors should focus on **cost efficiency**.
+
+---
+
+## 📝 Final Recommendations
+
+- **Price Re-evaluation:** Reassess pricing for low-sales, high-margin brands to increase sales volume without sacrificing profitability.  
+- **Vendor Diversification:** Broaden vendor partnerships to reduce dependency on a few suppliers and mitigate supply chain risks.  
+- **Bulk Purchasing:** Utilize bulk purchasing benefits to maintain competitive pricing and optimize inventory management.  
+- **Inventory Optimization:** Manage slow-moving inventory by adjusting purchase quantities, launching clearance sales, or revising storage strategies.  
+- **Marketing & Distribution:** Improve marketing and distribution strategies for low-performing vendors to boost sales volumes without compromising margins.
+- **Expected Outcome:** Implementing these recommendations will help the company achieve **sustainable profitability**, mitigate risks, and enhance overall operational efficiency.
+
 
 
