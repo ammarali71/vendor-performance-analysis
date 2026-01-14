@@ -75,6 +75,7 @@ To improve data quality and reliability, the following filters were applied:
 ![brands](image/brands.PNG)
 
 198 brands exhibit lower sales but higher profit margins, which could benefit from targeting market, promotions or price optimizations to increase volume without compromising profitability.
+
 ![scatter_plot](image/scatter_plot.PNG)
 
 ## 🏢 Top Vendors by Sales & Purchase Contribution
@@ -82,6 +83,30 @@ To improve data quality and reliability, the following filters were applied:
 - The **top 10 vendors** contribute **65.69% of total purchases**, while the remaining vendors account for only **34.31%**.
 - Over-reliance on a few vendors may introduce **supply chain risks**, highlighting the need for **vendor diversification**.
 
-![pie_chart](images/pie_chart.png)
+![Pie_chart](images/pie_chart.png)
+
+## 📦 Impact of Bulk Purchasing on Cost Savings
+
+- **Unit Cost Reduction:** Vendors purchasing in large quantities receive a **72% lower unit cost ($10.78 per unit)** compared to smaller orders.  
+- **Volume Incentives:** Bulk pricing strategies encourage larger order sizes, effectively increasing total sales volume.  
+- **Profitability Optimization:** Scaled purchasing enables the business to maintain strong profit margins while offering competitive market pricing
+
+![Unit_purchase_price](image/Unit_purchase_price.PNG)
+
+## 📉 Identifying Vendors with Low Inventory Turnover
+
+- **Total Unsold Inventory Capital:** $2.71M  
+- **Impact of Slow-Moving Inventory:** Increases storage costs, reduces cash flow efficiency, and negatively affects overall profitability.  
+- **Strategic Benefit:** Identifying vendors with low inventory turnover enables better stock management and minimizes financial strain.
+
+### 📊 Profit Margin Comparison: High vs. Low-Performing Vendors
+- **Top Vendors' Profit Margin (95% CI):** 30.74% – 31.61%, **Mean:** 31.17%  
+- **Low Vendors' Profit Margin (95% CI):** 40.48% – 42.62%, **Mean:** 41.55%  
+- **Performance Analysis:** Low-performing vendors maintain higher margins but struggle with sales volumes, indicating potential pricing inefficiencies or limited market reach.  
+- **Actionable Insights for Top-Performing Vendors:** Optimize profitability by adjusting pricing, reducing operational costs, or offering bundled promotions.
+
+
+![Confidence interval_comparison](images/Confidence interval_comparison.png)
+
 
 
