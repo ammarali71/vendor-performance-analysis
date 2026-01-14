@@ -16,3 +16,37 @@ Key Achievements
 ![histogram_plot](image/histogram_plot.PNG)
 
 
+## 📊 Summary Statistics Insights
+
+### ⚠️ Negative & Zero Values
+- **Gross Profit (Min: -52,002.78)**  
+  Some transactions are running at a loss due to high costs or heavy discounting.
+- **Profit Margin (Min: -∞)**  
+  Revenue is zero or lower than costs, indicating unprofitable sales.
+- **Total Sales Quantity & Sales Dollars (Min: 0)**  
+  Products were purchased but never sold, suggesting slow-moving or obsolete inventory.
+
+### 🔍 Outliers & High Variability
+- **Purchase & Actual Prices**  
+  Maximum values (5,681.81 / 7,499.99) compared to low mean values (24.39 / 35.64) indicate the presence of premium or high-end products.
+- **Freight Cost (0.09 → 257,032.07)**  
+  Large variation points to bulk shipments or inefficiencies in logistics.
+- **Stock Turnover (0 → 274.5)**  
+  Some products sell extremely fast while others barely move.  
+  Stock turnover greater than 1 indicates sales fulfilled from older inventory.
+
+### 💡 Key Takeaways
+- Monitor loss-making products and negative margins for corrective action.
+- Investigate high freight costs and extreme stock turnover to optimize logistics.
+- Implement strategies to reduce slow-moving or obsolete inventory.
+
+## 🧹 Data Filtering
+
+To improve data quality and reliability, the following filters were applied:
+
+- **Gross Profit ≤ 0** – Excluded loss-making transactions.
+- **Profit Margin ≤ 0** – Focused analysis on profitable sales.
+- **Total Sales Quantity = 0** – Removed items that were never sold.
+
+### Correlation heatmap
+![Correlation_heatmap](image/Correlation_heatmap.PNG)
