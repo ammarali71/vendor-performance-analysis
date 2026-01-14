@@ -50,3 +50,26 @@ To improve data quality and reliability, the following filters were applied:
 
 ### Correlation heatmap
 ![Correlation_heatmap](image/Correlation_heatmap.PNG)
+
+## 📈 Correlation Insights
+
+### Purchase Price vs Sales & Profit
+- Weak correlation with **Total Sales Dollars (-0.012)** and **Gross Profit (-0.016)**  
+  → Price variations have minimal impact on overall revenue or profitability.
+
+### Purchase Quantity vs Sales Quantity
+- Strong positive correlation (**0.999**)  
+  → Confirms efficient inventory turnover, where purchased quantities are almost fully sold.
+
+### Profit Margin vs Total Sales Price
+- Negative correlation (**-0.179**)  
+  → Higher sales prices may result in lower profit margins, possibly due to competitive pricing pressures.
+
+### Stock Turnover vs Profitability
+- Weak negative correlation with **Gross Profit (-0.038)** and **Profit Margin (-0.055)**  
+  → Faster inventory turnover does not necessarily translate into higher profitability.
+
+## Research Questions & Key Findings
+
+### Brands for promotional and pricing adjustments
+![brands](image/brands.PNG)
