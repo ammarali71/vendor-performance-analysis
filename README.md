@@ -9,4 +9,5 @@ Key Achievements
 
 ##  Exploratory Data Analysis Overview
 
-![EDA Summary Statistics](images/C:\Users\mahir\Downloads\Vendor Performance project\image)
+![EDA Summary Statistics](images/brands.png
+\image)
