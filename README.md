@@ -9,4 +9,4 @@ Key Achievements
 
 ##  Exploratory Data Analysis Overview
 
-![EDA Summary Statistics](image/brands.PNG)
+![EDA Summary Statistics](image/Summary_statistics.PNG)
