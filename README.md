@@ -106,7 +106,7 @@ To improve data quality and reliability, the following filters were applied:
 - **Actionable Insights for Top-Performing Vendors:** Optimize profitability by adjusting pricing, reducing operational costs, or offering bundled promotions.
 
 
-![Confidence_interval_comparison](images/Confidence_interval_comparison.PNG)
+![Distribution](images/Distribution.PNG)
 
 
 
