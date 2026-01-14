@@ -73,3 +73,15 @@ To improve data quality and reliability, the following filters were applied:
 
 ### Brands for promotional and pricing adjustments
 ![brands](image/brands.PNG)
+
+198 brands exhibit lower sales but higher profit margins, which could benefit from targeting market, promotions or price optimizations to increase volume without compromising profitability.
+![scatter_plot](image/scatter_plot.PNG)
+
+## 🏢 Top Vendors by Sales & Purchase Contribution
+
+- The **top 10 vendors** contribute **65.69% of total purchases**, while the remaining vendors account for only **34.31%**.
+- Over-reliance on a few vendors may introduce **supply chain risks**, highlighting the need for **vendor diversification**.
+
+![pie_chart](images/pie_chart.png)
+
+
