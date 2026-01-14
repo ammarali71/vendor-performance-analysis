@@ -5,3 +5,6 @@ This project analyzes vendor performance and sales data within an inventory mana
 The project demonstrates hands-on expertise in Python, SQL, data analysis, ETL workflows, and Power BI dashboard development.
 
 Key Achievements
+
+##  Exploratory Data Analysis Overview
+
