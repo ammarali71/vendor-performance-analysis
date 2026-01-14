@@ -7,8 +7,9 @@ The project demonstrates hands-on expertise in Python, SQL, data analysis, ETL w
 
 Key Achievements
 
-###  Exploratory Data Analysis Overview
+##  **Exploratory Data Analysis Overview**
 
+### Summary Statistics
 ![Summary Statistics](image/Summary_statistics.PNG)
 
 
